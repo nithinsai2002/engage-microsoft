@@ -11,23 +11,23 @@ It is used to detect a criminal face by continously senses the environment throu
 * How to run the program
 
 ```
-1. cd project
+cd project
 ```
 
 ```
-2. pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ```
-3. python manage.py migrate
+python manage.py migrate
 ```
 
 ```
-4. python manage.py makemigrations
+python manage.py makemigrations
 ```
 
 ```
-5. python manage.py runserver
+python manage.py runserver
 ```
 
 ### Issues
